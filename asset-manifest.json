@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rexru/my-portfolio.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/rexru/my-portfolio.git/static/js/main.8d603a18.chunk.js",
+    "main.js.map": "/rexru/my-portfolio.git/static/js/main.8d603a18.chunk.js.map",
+    "runtime-main.js": "/rexru/my-portfolio.git/static/js/runtime-main.28171d99.js",
+    "runtime-main.js.map": "/rexru/my-portfolio.git/static/js/runtime-main.28171d99.js.map",
+    "static/js/2.efdab03d.chunk.js": "/rexru/my-portfolio.git/static/js/2.efdab03d.chunk.js",
+    "static/js/2.efdab03d.chunk.js.map": "/rexru/my-portfolio.git/static/js/2.efdab03d.chunk.js.map",
+    "static/js/3.6ce5ce29.chunk.js": "/rexru/my-portfolio.git/static/js/3.6ce5ce29.chunk.js",
+    "static/js/3.6ce5ce29.chunk.js.map": "/rexru/my-portfolio.git/static/js/3.6ce5ce29.chunk.js.map",
+    "index.html": "/rexru/my-portfolio.git/index.html",
+    "precache-manifest.b0b91f22366205b98feda8f8e0bae06d.js": "/rexru/my-portfolio.git/precache-manifest.b0b91f22366205b98feda8f8e0bae06d.js",
+    "service-worker.js": "/rexru/my-portfolio.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/rexru/my-portfolio.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.efdab03d.chunk.js.LICENSE.txt": "/rexru/my-portfolio.git/static/js/2.efdab03d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28171d99.js",
+    "static/js/2.efdab03d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8d603a18.chunk.js"
+  ]
+}
